@@ -3,7 +3,8 @@
 set -euo pipefail
 
 # TODO: Ensure this is the correct GitHub homepage where releases can be downloaded for gemini.
-GH_REPO="https://github.com/ameyanaik11/asdf-gemini"
+# GH_REPO="https://github.com/ameyanaik11/asdf-gemini"
+GH_REPO="https://github.com/google-gemini/gemini-cli"
 TOOL_NAME="gemini"
 TOOL_TEST="gemini --version"
 
